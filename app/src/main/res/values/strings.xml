@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NewsMiniaUnveristy</string>
+    <string name="txt">الانشطة الطلابية بجامعة المنيا</string>
+    <string name="news">اخبار الجامعة</string>
+    <string name="public_news">الجامعة فى عيون الثقافة</string>
+    <string name="scienc_club">الاداره العامه للتدريب</string>
+    <string name="en_socitey">مؤتمرات</string>
+</resources>

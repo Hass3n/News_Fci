@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "223333804792",
+    "firebase_url": "https://fcinews-d9487.firebaseio.com",
+    "project_id": "fcinews-d9487",
+    "storage_bucket": "fcinews-d9487.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223333804792:android:7ba6e518577abe04",
+        "android_client_info": {
+          "package_name": "amr.your.FciNews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "223333804792-8nf50cv47soflmch7s8lc764raacd3tt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "amr.your.FciNews",
+            "certificate_hash": "72919c0829e18660109be052e7b9ca2b66fa9fb3"
+          }
+        },
+        {
+          "client_id": "223333804792-pflfdffcpe5h1o5ols0q0i61ak0geu90.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABJ2XDVYWy8dN2tK6acxO4wPhyAGV6oRk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "223333804792-pflfdffcpe5h1o5ols0q0i61ak0geu90.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
